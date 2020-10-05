@@ -1,0 +1,5 @@
+With Output File
+"C:\Users\Kyle\Desktop\NNU\Fall 2019\Data Structures\Project 5 Trees\Debug\Project 5 Trees.exe" "C:\Users\Kyle\Desktop\NNU\Fall 2019\Data Structures\Project 5 Trees\Project 5 Trees.sln" "C:\Users\Kyle\Desktop\NNU\Fall 2019\Data Structures\Project 5 Trees\Project 5 Trees\John3 (1).txt" "C:\Users\Kyle\Desktop\NNU\Fall 2019\Data Structures\Project 5 Trees\Project 5 Trees\output.txt"
+
+Without Output File (for outputting to console window)
+"C:\Users\Kyle\Desktop\NNU\Fall 2019\Data Structures\Project 5 Trees\Debug\Project 5 Trees.exe" "C:\Users\Kyle\Desktop\NNU\Fall 2019\Data Structures\Project 5 Trees\Project 5 Trees.sln" "C:\Users\Kyle\Desktop\NNU\Fall 2019\Data Structures\Project 5 Trees\Project 5 Trees\John3 (1).txt"

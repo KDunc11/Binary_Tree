@@ -1,0 +1,7 @@
+Put Command Lines in the following order
+
+1) .exe file
+2) .sln file
+3) text file (.txt)
+4) Output file (.txt) No output file will result in the program outputting to the console window instead, however user
+   must specify in debugging for the .sln in visual studio.
